@@ -1,0 +1,26 @@
+{
+    "name": "test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "testsdafasfa": "github:codeninjasai/testsdafasfa#992925958c7abee0f5cf3c93f9657427824ed8ca",
+        "test": "github:codeninjasai/testsdafasfa#992925958c7abee0f5cf3c93f9657427824ed8ca"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
